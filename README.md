@@ -1,6 +1,6 @@
 # Markdown-Vorschau
 
-![Markdown-Vorschau](https://placekitten.com/800/600) <!-- Ersetze dies durch einen tatsächlichen Screenshot deines Projekts -->
+![Markdown-Vorschau](https://raw.githubusercontent.com/mariokreitz/markdown-previewer/main/src/assets/markdown_cover.png) <!-- Ersetze dies durch einen tatsächlichen Screenshot deines Projekts -->
 
 ## Beschreibung
 

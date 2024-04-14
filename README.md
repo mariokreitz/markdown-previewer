@@ -1,4 +1,4 @@
-# Markdown-Vorschau
+# Markdown-Vorschau [![Netlify Status](https://api.netlify.com/api/v1/badges/8b2b4cd6-1a9b-4012-9f66-f264327dacac/deploy-status)](https://app.netlify.com/sites/marked-markdown-previewer/deploys)
 
 ![Markdown-Vorschau](https://raw.githubusercontent.com/mariokreitz/markdown-previewer/main/src/assets/markdown_cover.png) <!-- Ersetze dies durch einen tatsächlichen Screenshot deines Projekts -->
 
